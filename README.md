@@ -1,6 +1,6 @@
 # 🖼️ Caption Crafter
 
-video- demo: {https://youtu.be/Ll2uaRAHCOg}
+video- demo: {https://www.linkedin.com/posts/khushboo-goyal-32bab0291_projectbasedexperientiallearning-pbel-ibm-activity-7355937225504641024-cba4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEbRxNMBClPIe-91hP-dIMmuepRrTz_0ZWU}
 
 > A deep learning-based image captioning tool that crafts meaningful descriptions for images using PyTorch and Transformers.
 
