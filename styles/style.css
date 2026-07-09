@@ -1,0 +1,39 @@
+body {
+    background-color: #181a1b;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+    color: #4f46e5;
+    font-weight: bold;
+}
+
+.stButton button {
+    background-color: #4f46e5;
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+/* Chat bubble styles */
+.user-bubble {
+    background: #23272f;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    text-align: right;
+    margin-left: 20%;
+}
+
+.ai-output-bubble {
+    background: #23272f;
+    color: #d1fae5;
+    padding: 16px;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-left: 6px solid #22c55e;
+    font-size: 1.1em;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
